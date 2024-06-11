@@ -1,7 +1,9 @@
-<img align="center" alt="Say Hi" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3dnEza3JpZ3JqcDd4Z3RjZ3UyMnk3OGl2bDExbmkzcG96M242ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwiIjb8wr7tehDa/giphy.webp" />
 
-<h1 align="center">Hi 👋, I'm Reza Fahlevi Herdiyanto</h1>
-<img align="right" alt="Coding Animation" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  <img align="center" alt="Say Hi" width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3dnEza3JpZ3JqcDd4Z3RjZ3UyMnk3OGl2bDExbmkzcG96M242ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwiIjb8wr7tehDa/giphy.webp" />
+
+
+<h1 align="left">Hi 👋, I'm Reza Fahlevi Herdiyanto</h1>
+
 
 
 <!--<h3 align="left">Connect with me:</h3>
