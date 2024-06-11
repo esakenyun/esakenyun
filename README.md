@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+<div>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esakenyun"/>
-<img alt="Statistic" src="https://github-readme-streak-stats.herokuapp.com/?user=esakenyun&theme=tokyonight&hide_border=false"/>
+</div>
 
 <!--
 **esakenyun/esakenyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
