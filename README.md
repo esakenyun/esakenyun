@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esakenyun)](https://github.com/esakenyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esakenyun&layout=compact)](https://github.com/esakenyun/github-readme-stats)
 
 <!--
 **esakenyun/esakenyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
