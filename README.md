@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/esakenyun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esakenyun)](https://github.com/esakenyun/github-readme-stats)
 
 <!--
 **esakenyun/esakenyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
