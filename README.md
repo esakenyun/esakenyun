@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<div>
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=esakenyun&theme=react-dark"/>
+</div>
 
 <!--
 **esakenyun/esakenyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
