@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Reza Fahlevi Herdiyanto</h1>
-
 <p align="center">
-  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3dnEza3JpZ3JqcDd4Z3RjZ3UyMnk3OGl2bDExbmkzcG96M242ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwiIjb8wr7tehDa/giphy.webp" alt="Say Hi" />
+  <img width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3dnEza3JpZ3JqcDd4Z3RjZ3UyMnk3OGl2bDExbmkzcG96M242ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwiIjb8wr7tehDa/giphy.webp" alt="Say Hi" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Reza Fahlevi Herdiyanto</h1>
 
 <p align="center">
   Full Stack Developer • Frontend Developer • Informatics Graduate
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:rfahlevih12@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/username-linkedin-kamu">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rfahlevih">LinkedIn</a> •
   <a href="https://github.com/esakenyun">GitHub</a>
 </p>
 
@@ -64,18 +64,14 @@ Java Spring Boot • React.js • REST API • Backend Architecture • Clean Co
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esakenyun&theme=tokyonight" 
-    alt="GitHub Profile Details" 
+    src="https://ghchart.rshah.org/409ba5/esakenyun" 
+    alt="Reza's GitHub Contribution Chart" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esakenyun&theme=tokyonight&utcOffset=7" 
-    alt="Productive Time" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esakenyun&theme=tokyonight" 
-    alt="GitHub Stats" 
+    src="https://streak-stats.demolab.com?user=esakenyun&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </p>
